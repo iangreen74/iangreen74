@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iangreen74
-- 👀 I’m interested in DevOps and really anything techy. 
-- 🌱 I’m currently learning Terraform
-- 💞️ I’m looking to collaborate on interesting projects
+- 👀 I’m a DevOps engineer and machine learning fanatic. 
+- 🌱 I’m currently developing an AI project in green energy.
+- 💞️ I’m looking for AI collaborators 
 - 📫 How to reach me mikahiangreen@gmail.com
 
 <!---
